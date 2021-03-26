@@ -7,7 +7,7 @@ class EncryptoCli < Formula
   bottle :unneeded
 
   def install
-    prefix.install "encrypto-cli/encrypto-cli.bundle" => "encrypto-cli.bundle"
+    prefix.install "encrypto-cli.bundle" => "encrypto-cli.bundle"
     bin.install_symlink prefix/"encrypto-cli.bundle/Contents/MacOS/encrypto-cli"
   end
 
