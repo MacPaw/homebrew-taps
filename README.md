@@ -12,6 +12,10 @@ MacPaw's [Homebrew tap](https://docs.brew.sh/Taps) listing the products that can
 
 ## CleanMyMac CLI
 
+→ [Documentation](https://github.com/MacPaw/cleanmymac-cli/wiki)
+
+→ [CleanMyMac CLI repository](https://github.com/MacPaw/cleanmymac-cli)
+
 CleanMyMac CLI is proprietary software owned by MacPaw Way Ltd.
 
 © 2026 MacPaw Way Ltd. All rights reserved.
